@@ -1,4 +1,4 @@
-# NetScaler Citrix Bleed2 Scanner ( (CVE-2025-5777) 
+# NetScaler Citrix Bleed2 Scanner (CVE-2025-5777) 
 
 A Python-based vulnerability scanner designed to detect Citrix NetScaler Bleed2 vulnerabilities by scanning HTTPS endpoints for specific response patterns.
 NetScaler Critical Security Updates - https://www.netscaler.com/blog/news/netscaler-critical-security-updates-for-cve-2025-6543-and-cve-2025-5777/
