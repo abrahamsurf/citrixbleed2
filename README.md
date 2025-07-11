@@ -72,7 +72,7 @@ Scanning 192.168.1.2... HTTPS:✓ - VULNERABLE!
 
 ## Legal Disclaimer
 
-This tool is intended for authorized security testing and educational purposes only. Users are responsible for ensuring they have proper authorization before scanning any systems. The authors are not responsible for any misuse of this tool.
+This tool is intended for authorized security testing and educational purposes only. Users are responsible for ensuring they have proper authorization before scanning any systems. The author is not responsible for any misuse of this tool and you may use this tool at your own risk!
 
 ## Requirements
 
