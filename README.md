@@ -3,6 +3,7 @@
 A Python-based vulnerability scanner designed to detect Citrix NetScaler Bleed2 vulnerabilities by scanning HTTPS endpoints for specific response patterns.
 [NetScaler Critical Security Updates](https://www.netscaler.com/blog/news/netscaler-critical-security-updates-for-cve-2025-6543-and-cve-2025-5777/)
 
+The Cybersecurity and Infrastructure Security Agency (CISA) has just added this CVE to its KEV list (Known Exploited Vulnerabilities Catalog) under [Citrix NetScaler ADC and Gateway Out-of-Bounds Read Vulnerability](https://www.cve.org/CVERecord?id=CVE-2025-5777)
 
 ## Description
 
