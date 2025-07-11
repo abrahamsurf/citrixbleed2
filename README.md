@@ -11,7 +11,7 @@ This tool performs targeted HTTPS POST requests to detect the Citrix NetScaler B
 
 ## Features
 
-- **HTTPS Only Scanning**: Targets port 443 exclusively for security-focused assessments
+- **HTTPS Only Scanning**: Targets port 443.
 - **Pattern Detection**: Identifies vulnerable targets using specific XML response patterns
 - **Multi-threading**: Concurrent scanning for improved performance
 - **Dual Logging**: Separate logs for vulnerable targets and all responses
